@@ -1,0 +1,14 @@
+PORTFOLIO UGC - LUDMILA MACCARRONE
+Publicar en GitHub Pages
+
+1. Entrar a github.com e iniciar sesion (o crear una cuenta gratis).
+2. Crear un repositorio nuevo: boton "New". Nombre sugerido: portfolio. Dejarlo en "Public". Crear.
+3. En el repositorio vacio, elegir "uploading an existing file".
+4. Arrastrar TODO el contenido de esta carpeta (index.html, la carpeta img, la carpeta vid y el archivo .nojekyll). Importante: arrastrar el contenido, no la carpeta contenedora, para que index.html quede en la raiz.
+5. Confirmar con "Commit changes".
+6. Ir a Settings > Pages. En "Source" elegir "Deploy from a branch", rama "main", carpeta "/ (root)". Guardar.
+7. Esperar uno o dos minutos. La direccion queda asi:
+   https://TU-USUARIO.github.io/portfolio/
+
+Para actualizar: subir de nuevo los archivos que cambiaron al mismo repositorio.
+Si .nojekyll no aparece (es un archivo oculto), no pasa nada: el sitio funciona igual.
